@@ -1,4 +1,4 @@
-from playground import foo
+from src.seda.playground import foo
 
 
 def test_playground_foo():
